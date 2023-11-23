@@ -18,3 +18,5 @@ Para garantir que o projeto do "Quiz de Rotina e Bem-Estar" alcance seus objetiv
  - Criação de Perguntas e Respostas: Desenvolveremos uma quantidade de perguntas relacionadas à rotina diária, hábitos de bem-estar, atividade física e alimentação. As respostas dos usuários gerarão pontuações e recomendações personalizadas.
 
 # Prints das Telas de Perguntas 
+
+<img src="https://github.com/jlateles/QuizRotina/blob/main/Capturas%20de%20Telas/Captura%20de%20Tela%20(Pergunta1).jfif">
