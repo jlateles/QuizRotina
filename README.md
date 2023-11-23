@@ -20,3 +20,7 @@ Para garantir que o projeto do "Quiz de Rotina e Bem-Estar" alcance seus objetiv
 # Prints das Telas de Perguntas 
 
 <img src="https://github.com/jlateles/QuizRotina/blob/main/Capturas%20de%20Telas/Captura%20de%20Tela%20(Pergunta1).jfif">
+<img src="https://github.com/jlateles/QuizRotina/blob/main/Capturas%20de%20Telas/Captura%20de%20Tela%20(Pergunta2).jfif">
+<img src="https://github.com/jlateles/QuizRotina/blob/main/Capturas%20de%20Telas/Captura%20de%20Tela%20(Pergunta3).jfif">
+<img src="https://github.com/jlateles/QuizRotina/blob/main/Capturas%20de%20Telas/Captura%20de%20Tela%20(Pergunta4).jfif">
+<img src="https://github.com/jlateles/QuizRotina/blob/main/Capturas%20de%20Telas/Captura%20de%20Tela%20(Pergunta5).jfif">
